@@ -1,2 +1,2 @@
 # blog
-Blog do Meetup - Membros dividem conhecimento.
+blog is coming
